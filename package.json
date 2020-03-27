@@ -1,0 +1,15 @@
+{
+    "name": "video-sharing-server",
+    "version": "1.0.0",
+    "description": "An app for shared video streaming.",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "author": "LNC",
+    "devDependencies": {},
+    "dependencies": {
+        "express": "^4.17.1",
+        "websocket": "^1.0.31"
+    }
+}
